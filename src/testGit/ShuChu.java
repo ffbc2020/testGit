@@ -11,6 +11,9 @@ public class ShuChu {
 		sum.qiuHe();
 		
 		System.out.println("over...");
+		
+		//Ã·Ωª
+		System.out.println("¥Úlog");
 	}
 
 }
