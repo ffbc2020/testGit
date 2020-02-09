@@ -9,6 +9,8 @@ public class ShuChu {
 		
 		Sum sum = new Sum();
 		sum.qiuHe();
+		
+		System.out.println("over...");
 	}
 
 }
